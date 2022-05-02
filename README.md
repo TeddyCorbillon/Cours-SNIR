@@ -16,5 +16,5 @@
 ## Auteurs
 * **Teddy CORBILLON** [@TeddyCorbillon](https://github.com/TeddyCorbillon)
 * **Léo THOMAS** [@leot03](https://github.com/leot03)
-* **Thomas SOULAIMANA** [@tsoulaimana](https://github.com/tsoulaimana)
+* **Théo DESILE** [@tsoulaimana](https://github.com/tsoulaimana)
 * **Ethan GAUDREE** [@EthanGaudree](https://github.com/EthanGaudree)
